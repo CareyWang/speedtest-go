@@ -28,4 +28,4 @@ jobs:
         context: .
         platforms: linux/amd64,linux/arm64,linux/arm/v7,linux/386
         push: true
-        tags: careywong:speedtest-go:latest
+        tags: careywong/speedtest-go:latest
